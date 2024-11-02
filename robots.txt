@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://azixuaxi.github.io/Gox/sitemap_index.txt
+Sitemap: https://azixuaxi.github.io/KGx/sitemap_index.txt
+Sitemap: https://azixuaxi.github.io/bNI/sitemap_index.txt
+Sitemap: https://azixuaxi.github.io/jVK/sitemap_index.txt
